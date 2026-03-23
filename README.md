@@ -65,6 +65,22 @@ GROQ_API_KEY=your_api_key
 ### 🎤 Viva Section
 ![Viva](viva.png)
 
+
+## 🎥 Demo Video
+
+Watch the working demo of **AutoLabAI – AI-Based Lab Practical & Viva Generator**:
+
+👉 [Click here to watch the demo](PASTE_YOUR_VIDEO_LINK_HERE)
+
+This video demonstrates:
+
+* User login system
+* Lab practical generation
+* Report creation
+* Viva question generation
+* Complete project workflow
+
+
 ## 👨‍💻 Author
 
 Nitin Jaiswar
