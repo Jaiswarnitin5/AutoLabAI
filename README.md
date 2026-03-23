@@ -51,6 +51,20 @@ GROQ_API_KEY=your_api_key
 * Practice viva questions before exams
 * Save time in report writing
 
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login](login.png)
+
+### 📊 Dashboard
+![Dashboard](dashboard.png)
+
+### 🤖 Lab Generation Output
+![Output](output.png)
+
+### 🎤 Viva Section
+![Viva](viva.png)
+
 ## 👨‍💻 Author
 
 Nitin Jaiswar
